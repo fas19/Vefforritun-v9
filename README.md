@@ -1,3 +1,14 @@
+# Vefforritun-v9
+
+## Fannar Sævarsson
+### fas19@hi.is
+#### https://notendur.hi.is/fas19/vefforritun/verkefni9/
+---
+
+---
+
+---
+
 # Verkefni 9
 
 Útfæra skal leit og birtingu á fyrirtækjum gegnum `apis.is`. `https://apis.is/company?name=elko` leitar t.d. að upplýsingum um `elko` og skilar til baka lista af hlutum, t.d.:
