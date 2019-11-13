@@ -57,7 +57,7 @@ const program = (() => {
 
   function show(data) {
     if (data.results.length == 0) {
-      displayError('Fann ekkert fyrirtæki');
+      displayError('Ekkert fyrirtæki fannst fyrir leitarstreng');
       return;
     }
     results = data.results;
