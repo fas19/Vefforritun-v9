@@ -55,6 +55,8 @@ input {
 
 .loading img {
   margin-bottom: 20px;
+  width: 40px; 
+  height: 40px;
 }
 
 .company{
