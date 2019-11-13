@@ -134,7 +134,7 @@ const program = (() => {
       el('p', "Leita að fyrirtækjum...")
     )
     div.classList.add("loading");
-    div.firstChild.setAttribute("src", "../loading.gif");
+    div.firstChild.setAttribute("src", "loading.gif");
 
     container.append(div);
 
